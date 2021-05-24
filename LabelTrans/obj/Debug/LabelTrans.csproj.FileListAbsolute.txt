@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\LabelTrans\LabelTrans\bin\Debug\LabelTrans.exe.config
+C:\Users\lenovo\source\repos\LabelTrans\LabelTrans\bin\Debug\LabelTrans.exe
+C:\Users\lenovo\source\repos\LabelTrans\LabelTrans\bin\Debug\LabelTrans.pdb
+C:\Users\lenovo\source\repos\LabelTrans\LabelTrans\obj\Debug\LabelTrans.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\LabelTrans\LabelTrans\obj\Debug\LabelTrans.Form1.resources
+C:\Users\lenovo\source\repos\LabelTrans\LabelTrans\obj\Debug\LabelTrans.Properties.Resources.resources
+C:\Users\lenovo\source\repos\LabelTrans\LabelTrans\obj\Debug\LabelTrans.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\LabelTrans\LabelTrans\obj\Debug\LabelTrans.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\LabelTrans\LabelTrans\obj\Debug\LabelTrans.exe
+C:\Users\lenovo\source\repos\LabelTrans\LabelTrans\obj\Debug\LabelTrans.pdb
