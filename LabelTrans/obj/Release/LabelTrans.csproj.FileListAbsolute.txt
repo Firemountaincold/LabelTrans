@@ -7,3 +7,13 @@ C:\Users\lenovo\source\repos\LabelTrans\LabelTrans\obj\Release\LabelTrans.csproj
 C:\Users\lenovo\source\repos\LabelTrans\LabelTrans\obj\Release\LabelTrans.csproj.CoreCompileInputs.cache
 C:\Users\lenovo\source\repos\LabelTrans\LabelTrans\obj\Release\LabelTrans.exe
 C:\Users\lenovo\source\repos\LabelTrans\LabelTrans\obj\Release\LabelTrans.pdb
+C:\Users\llz\source\repos\LabelTrans\LabelTrans\bin\Release\LabelTrans.exe.config
+C:\Users\llz\source\repos\LabelTrans\LabelTrans\bin\Release\LabelTrans.exe
+C:\Users\llz\source\repos\LabelTrans\LabelTrans\bin\Release\LabelTrans.pdb
+C:\Users\llz\source\repos\LabelTrans\LabelTrans\obj\Release\LabelTrans.csprojAssemblyReference.cache
+C:\Users\llz\source\repos\LabelTrans\LabelTrans\obj\Release\LabelTrans.Form1.resources
+C:\Users\llz\source\repos\LabelTrans\LabelTrans\obj\Release\LabelTrans.Properties.Resources.resources
+C:\Users\llz\source\repos\LabelTrans\LabelTrans\obj\Release\LabelTrans.csproj.GenerateResource.cache
+C:\Users\llz\source\repos\LabelTrans\LabelTrans\obj\Release\LabelTrans.csproj.CoreCompileInputs.cache
+C:\Users\llz\source\repos\LabelTrans\LabelTrans\obj\Release\LabelTrans.exe
+C:\Users\llz\source\repos\LabelTrans\LabelTrans\obj\Release\LabelTrans.pdb
